@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @nkudaaaaa
-- 👀 I’m interested in programming and web-tecnologies
-- 🌱 I’m currently learning React, JS
 - 📫 How to reach me: nkudaaaaa@gmail.com
 
 <!---
