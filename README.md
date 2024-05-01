@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @nkudaaaaa
+- I'm Angular Developer
 - 📫 How to reach me: nkudaaaaa@gmail.com
 
 <!---
